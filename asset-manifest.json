@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tlcell/static/css/main.b11711cc.chunk.css",
+    "main.js": "/tlcell/static/js/main.1cbfe61e.chunk.js",
+    "main.js.map": "/tlcell/static/js/main.1cbfe61e.chunk.js.map",
+    "runtime-main.js": "/tlcell/static/js/runtime-main.44910aae.js",
+    "runtime-main.js.map": "/tlcell/static/js/runtime-main.44910aae.js.map",
+    "static/css/2.25ff2e5b.chunk.css": "/tlcell/static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.51ea431c.chunk.js": "/tlcell/static/js/2.51ea431c.chunk.js",
+    "static/js/2.51ea431c.chunk.js.map": "/tlcell/static/js/2.51ea431c.chunk.js.map",
+    "index.html": "/tlcell/index.html",
+    "precache-manifest.94678d9beb447263c89fee1dc28f52ad.js": "/tlcell/precache-manifest.94678d9beb447263c89fee1dc28f52ad.js",
+    "service-worker.js": "/tlcell/service-worker.js",
+    "static/css/2.25ff2e5b.chunk.css.map": "/tlcell/static/css/2.25ff2e5b.chunk.css.map",
+    "static/css/main.b11711cc.chunk.css.map": "/tlcell/static/css/main.b11711cc.chunk.css.map",
+    "static/js/2.51ea431c.chunk.js.LICENSE.txt": "/tlcell/static/js/2.51ea431c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44910aae.js",
+    "static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.51ea431c.chunk.js",
+    "static/css/main.b11711cc.chunk.css",
+    "static/js/main.1cbfe61e.chunk.js"
+  ]
+}
